@@ -2,7 +2,7 @@
   {
     "title": "Battleship",
     "description": "Inspired in gameboard game",
-    "preview": "/images/img/Battleship.webp",
+    "preview": "./images/img/Battleship.webp",
     "live": "https://DanByteCode.github.io/Battleship-js/",
     "source": "https://github.com/DanByteCode/Battleship-js",
     "tools": [
@@ -15,7 +15,7 @@
   {
     "title": "WeatherApp",
     "description": "Consult the weather",
-    "preview": "/images/img/Weather-App.webp",
+    "preview": "./images/img/Weather-App.webp",
     "live": "https://DanByteCode.github.io/Weather-App",
     "source": "https://github.com/DanByteCode/Weather-App",
     "tools": [
@@ -28,7 +28,7 @@
   {
     "title": "Todo list",
     "description": "Organizative Checklist",
-    "preview": "/images/img/Todo-list.webp",
+    "preview": "./images/img/Todo-list.webp",
     "live": "https://DanByteCode.github.io/Todo-list",
     "source": "https://github.com/DanByteCode/Todo-list",
     "tools": [
@@ -41,7 +41,7 @@
   {
     "title": "Tic-Tac-Toe",
     "description": "Align 3 pieces to win",
-    "preview": "/images/img/Tic-Tac-Toe.webp",
+    "preview": "./images/img/Tic-Tac-Toe.webp",
     "live": "https://DanByteCode.github.io/Tic-Tac-Toe",
     "source": "https://github.com/DanByteCode/Tic-Tac-Toe",
     "tools": [
@@ -53,7 +53,7 @@
   {
     "title": "Calculator",
     "description": "Simulating a Calculator",
-    "preview": "/images/img/Calculator.webp",
+    "preview": "./images/img/Calculator.webp",
     "live": "https://DanByteCode.github.io/Calculator",
     "source": "https://github.com/DanByteCode/Calculator",
     "tools": [
@@ -65,7 +65,7 @@
   {
     "title": "Etch a Sketch",
     "description": "Paint board",
-    "preview": "/images/img/ToP-Etch-a-Sketch.webp",
+    "preview": "./images/img/ToP-Etch-a-Sketch.webp",
     "live": "https://DanByteCode.github.io/ToP-Etch-a-Sketch",
     "source": "https://github.com/DanByteCode/ToP-Etch-a-Sketch",
     "tools": [

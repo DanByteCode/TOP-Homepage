@@ -36,8 +36,8 @@ function init () {
   $get('modal').addEventListener('click', (e) => {
     if (e.target === e.currentTarget) { $get('modal').close() }
   })
-  $svg('/images/icon/github.svg', $get('gh-img'))
-  $svg('/images/icon/close.svg', $get('close-modal'))
+  $svg('./images/icon/github.svg', $get('gh-img'))
+  $svg('./images/icon/close.svg', $get('close-modal'))
 }
 function previewFunction (card, img) {
   const picModal = $get('modal')
